@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VictorVoice AI - Trình Tạo Giọng Nói Vùng Miền",
+  "description": "Ứng dụng tạo giọng nói tiếng Việt đa vùng miền (Hà Nội, Huế, Sài Gòn...) sử dụng công nghệ Gemini 2.5 Flash tiên tiến.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
